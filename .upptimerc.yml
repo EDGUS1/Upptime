@@ -3,14 +3,18 @@ owner: EDGUS1 # Your GitHub organization or username, where this repository live
 repo: Upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: aprendeenlinea
+    url: https://silabo-test.herokuapp.com/home
+  - name: vacunacion
+    url: https://amezagacode.herokuapp.com/
+  #- name: Google
+  #  url: https://www.google.com
+  #- name: Wikipedia
+  #  url: https://en.wikipedia.org
+  #- name: Hacker News
+  #  url: https://news.ycombinator.com
+  #- name: Test Broken Site
+  #  url: https://thissitedoesnotexist.koj.co
 
 assignees:
   - EDGUS1
